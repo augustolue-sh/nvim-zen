@@ -7,7 +7,6 @@ Una configuración de Neovim ultra ligera, diseñada para desarrolladores que bu
 ## Descripción Técnica y Características
 
 * **Cero Dependencias Obligatorias**: Configuración 100% funcional desde el primer momento utilizando únicamente Lua nativo y las APIs internas de Neovim.
-* **Paleta de Colores Apple Dark**: Sistema de resaltado personalizado inspirado en los acentos del modo oscuro de macOS Big Sur / Sonoma (cian, rosa, naranja y verde del sistema).
 * **Barra de Estado Adaptativa**: Indicadores dinámicos de modo con detección nativa de ramas de Git, conteo de diagnósticos/LSP activos, codificación dinámica y progreso del cursor.
 * **Cierre Automático y Navegación Nativa**: Emparejamiento inteligente de corchetes/comillas y salto de cursor mediante `<C-l>` sin necesidad de plugins pesados.
 * **Integración Opcional**: Suite visual moderna integrada mediante [`mini.nvim`](https://github.com/echasnovski/mini.nvim) para búsqueda difusa (*fuzzy finding*), acciones sobre envolventes (*surround*) y guías de indentación.
